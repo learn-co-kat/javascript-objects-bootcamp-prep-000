@@ -1,4 +1,4 @@
-/*global describe, it */
+t/*global describe, it */
 
 const expect = require('chai').expect
 const babel = require('babel-core')
